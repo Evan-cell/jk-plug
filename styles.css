@@ -1,0 +1,10 @@
+.bg-light{
+    background: #CCCE00;
+    background: -moz-linear-gradient(left, #CCCE00 0%, #13A41E 50%, #C540C0 100%);
+    background: -webkit-linear-gradient(left, #CCCE00 0%, #13A41E 50%, #C540C0 100%);
+    background: linear-gradient(to right, #CCCE00 0%, #13A41E 50%, #C540C0 100%);
+
+ } 
+.card{
+    width: 500px !important;
+}
