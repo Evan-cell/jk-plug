@@ -8,3 +8,9 @@
 .card{
     width: 500px !important;
 }
+#para{
+    display: none;
+}
+#textbox{
+    display: none;
+}
